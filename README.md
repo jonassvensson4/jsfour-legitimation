@@ -13,6 +13,8 @@ Det du kan behöva ändra är följande:
 - Ta bort lastdigits från SQL-queryn i server.lua
 - Ändra formatet på personnumret i init.js
 
+Vet du inte hur du gör detta så är det här inget script för dig.
+
 ### Screenshot
 ![screenshot](https://i.gyazo.com/98063ed06b7a804e6978c5e4bb4886e6.png)
 
