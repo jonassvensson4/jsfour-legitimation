@@ -14,7 +14,7 @@ Det du kan behöva ändra är följande:
 - Ändra formatet på personnumret i init.js
 
 ### Screenshot
-![screenshot](https://prnt.sc/jb7zzi)
+![screenshot](https://i.gyazo.com/98063ed06b7a804e6978c5e4bb4886e6.png)
 
 ### Exempel på hur en meny kan se ut
 ```
