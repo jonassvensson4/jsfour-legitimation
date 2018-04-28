@@ -1,0 +1,26 @@
+body {
+  display: none;
+  width: 100%;
+  height: 100%;
+}
+#card {
+  margin: 230px 50px 0 0;
+  float: right;
+  width: 457px;
+  height: 272px;
+  padding: 50px 17px 10px 17px;
+  background: url("../images/legitimation.png");
+}
+p {
+  margin: 0;
+  padding: 0;
+}
+#firstname {
+  margin-top: 9px;
+}
+#middle-info {
+  margin: -22px 0 0 135px !important;
+}
+#middle-info p:not(:first-child) {
+  margin-top: 10px;
+}
