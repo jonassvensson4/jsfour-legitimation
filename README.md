@@ -2,8 +2,7 @@
 Ett alternativ till gcidentity där du kan titta på ditt legg samt visa upp det för den närmsta personen.
 
 ### NOTICE
-This script is in swedish. If you want to change the image you can download the PSD file from:
-https://github.com/jonassvensson4/jsfour-templates/tree/master/jsfour-legitimation
+This script is in swedish and it's using a swedish ID-card as a base. If you want a more generic one you can download my <a href="https://github.com/jonassvensson4/jsfour-idcard">jsfour-idcard<a/>
 
 ### LICENSE
 Du får mer än gärna ändra vad du vill i scriptet men du får INTE sälja vidare scriptet eller ladda upp det på nytt, hänvisa folket hit istället.
