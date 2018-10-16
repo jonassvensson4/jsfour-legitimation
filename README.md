@@ -9,7 +9,7 @@ Du får mer än gärna ändra vad du vill i scriptet men du får INTE sälja vid
 
 ### INFO
 Vill du redigera bakgrunden så kan du ladda ned PSD-filen här:
-https://www.dropbox.com/sh/wnntc2eu1syfoan/AACmKwcRkPIHxy2f1Eabc9pBa?dl=0
+https://www.dropbox.com/sh/69ol5nr5cngw9sx/AACXSpC4RRo63CX35E-dTjEta?dl=0
 
 För att scriptet ska fungera så behöver du använda dig av ESX.
 
