@@ -8,6 +8,9 @@ This script is in swedish and it's using a swedish ID-card as a base. If you wan
 Du får mer än gärna ändra vad du vill i scriptet men du får INTE sälja vidare scriptet eller ladda upp det på nytt, hänvisa folket hit istället.
 
 ### INFO
+Vill du redigera bakgrunden så kan du ladda ned PSD-filen här:
+https://www.dropbox.com/sh/wnntc2eu1syfoan/AACmKwcRkPIHxy2f1Eabc9pBa?dl=0
+
 För att scriptet ska fungera så behöver du använda dig av ESX.
 
 Scriptet är gjort efter mina behov vilket betyder att du kommer få ändra det lite.
